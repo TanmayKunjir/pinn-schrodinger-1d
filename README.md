@@ -28,7 +28,7 @@ The model learns both the **wavefunction** $\psi(x)$ and the **energy eigenvalue
   $5$ hidden layers × $120$ neurons each, with **tanh** activation
 
 * **Accuracy Achieved:**
-  Final error within **\~5.7%** of the true ground state energy
+  Final error within **\~5.0039%** of the true ground state energy
   $E_1 = \pi^2 \approx 9.8696$
 
 ---
